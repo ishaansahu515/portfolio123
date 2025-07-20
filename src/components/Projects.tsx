@@ -16,7 +16,7 @@ const Projects = () => {
       title: "StreamVault Media Hub", 
       description: "A premium streaming platform with advanced content discovery, personalized recommendations, and stunning visual design.",
       tech: ["React", "TypeScript", "Firebase", "Tailwind CSS"],
-      image: "/images/projects/photo_2025-07-20_03-17-21.jpg",
+      image: "/images/projects/photo_2025-07-20_03-17-28.jpg",
       gradient: "from-purple-500 to-pink-600"
     },
     {
@@ -24,7 +24,7 @@ const Projects = () => {
       title: "Cold Email Automation System",
       description: "An end-to-end email automation platform with smart workflows, personalized outreach, and advanced analytics.",
       tech: ["n8n", "Google Sheets", "JavaScript", "Webhooks"],
-      image: "/images/projects/photo_2025-07-20_03-17-28.jpg",
+      image: "/images/projects/photo_2025-07-20_03-17-33.jpg",
       gradient: "from-indigo-500 to-purple-600"
     },
     {
@@ -32,7 +32,7 @@ const Projects = () => {
       title: "HealthTech Services Platform",
       description: "A comprehensive healthcare platform offering disease prediction, insurance calculations, and health-related content.",
       tech: ["React", "Python", "Machine Learning", "PostgreSQL"],
-      image: "/images/projects/photo_2025-07-20_03-17-33.jpg",
+      image: "/images/projects/photo_2025-07-20_03-17-21.jpg",
       gradient: "from-teal-500 to-blue-600"
     },
     {
@@ -43,14 +43,7 @@ const Projects = () => {
       image: "/images/projects/photo_2025-07-20_15-06-05.jpg",
       gradient: "from-orange-500 to-red-600"
     },
-    {
-      id: 6,
-      title: "Portfolio Showcase",
-      description: "A stunning personal portfolio with glassmorphism design, smooth animations, and responsive layouts.",
-      tech: ["React", "Tailwind CSS", "Framer Motion", "TypeScript"],
-      image: "/images/projects/photo_2025-07-20_03-17-13.jpg",
-      gradient: "from-purple-500 to-violet-600"
-    }
+  
   ];
 
   return (
