@@ -1,0 +1,7 @@
+// Place your project images here:
+// - yourplaces.jpg
+// - streamvault.jpg  
+// - email-automation.jpg
+// - healthtech.jpg
+// - aws-pipeline.jpg
+// - portfolio.jpg
